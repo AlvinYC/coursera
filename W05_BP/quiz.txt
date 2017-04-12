@@ -1,0 +1,5 @@
+1. i know back-propagation is not easy to understand, whats hardest part in this chapter
+
+2. can we use square-error as neural network cost function, why or why not?
+
+3. did you perform back-propagation algorithm derivation by hand? 
